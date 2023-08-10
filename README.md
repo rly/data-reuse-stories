@@ -51,7 +51,7 @@ Other uses of this dataset:
 - Steven M Peterson, Satpreet H Singh, Nancy XR Wang, Rajesh PN Rao, and Bingni W Brunton. **Behavioral and neural variability of naturalistic arm movements.** Eneuro, 8(3), 2021.
 
 ### Other datasets (to organize...)
-Schneider, S., Lee, J. H., & Mathis, M. W. (2023). **Learnable latent embeddings for joint behavioural and neural analysis.** Nature, 1-9.
+Schneider, S., Lee, J. H., & Mathis, M. W. (2023). **Learnable latent embeddings for joint behavioural and neural analysis.** Nature, 1-9. https://doi.org/10.1038/s41586-023-06031-6
 - Used synthetic spiking data from: Zhou, D., & Wei, X. Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE. Adv. Neural Inf. Process. Syst. https://proceedings.neurips.cc//paper/2020/file/510f2318f324cf07fce24c3a4b89c771-Paper.pdf (2020).
 - Used spiking data from silicon probes in CA1 of rats: Grosmark, A. D. & Buzsáki, G. Diversity in neural firing dynamics supports both rigid and learned hippocampal sequences. Science 351, 1440–1443 (2016).
     - Data: https://crcns.org/data-sets/hc/hc-11/about-hc-11
