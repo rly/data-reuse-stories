@@ -82,5 +82,10 @@ DANDI Notebooks collection
 Example MATLAB Live Scripts collection
 - https://github.com/INCF/example-live-scripts
 
+MATLAB Live Script associated with:
+Najafi, F., Elsayed, G. F., Cao, R., Pnevmatikakis, E., Latham, P. E., Cunningham, J. P., & Churchland, A. K. (2020). **Excitatory and inhibitory subnetworks are equally selective during decision-making and emerge simultaneously during learning.** Neuron, 105(1), 165-179.
 - https://github.com/datajoint-company/najafi-2018-matlab
+
+NWB Overview listing of data analysis and reuse examples
+- https://nwb-overview.readthedocs.io/en/latest/community_gallery/community_gallery.html#data-analysis-and-reuse
 
