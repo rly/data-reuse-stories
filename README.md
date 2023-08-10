@@ -89,3 +89,9 @@ Najafi, F., Elsayed, G. F., Cao, R., Pnevmatikakis, E., Latham, P. E., Cunningha
 NWB Overview listing of data analysis and reuse examples
 - https://nwb-overview.readthedocs.io/en/latest/community_gallery/community_gallery.html#data-analysis-and-reuse
 
+SpikeForest
+- https://elifesciences.org/articles/55167
+- https://github.com/flatironinstitute/spikeforest
+- Data also on DANDI: https://dandiarchive.org/dandiset/000618?search=spikeforest&pos=1
+
+Processing and analysis tool benchmarking efforts
