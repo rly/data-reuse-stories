@@ -65,6 +65,14 @@ Schneider, S., Lee, J. H., & Mathis, M. W. (2023). **Learnable latent embeddings
         - Data accessed via allensdk: https://allensdk.readthedocs.io/en/latest/visual_coding_neuropixels.html
 - Code: https://github.com/AdaptiveMotorControlLab/CEBRA
 
+Easthope, E., Shamei, A., Liu, Y., Gick, B., & Fels, S. (2023). Cortical control of posture in fine motor skills: evidence from inter-utterance rest position. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2023.1139569
+- Used ECoG data in NWB format from Figshare
+    - Data: https://figshare.com/collections/Human_ECoG_speaking_consonant-vowel_syllables/4617263/4
+    - Data also available at: https://dandiarchive.org/dandiset/000019
+    - Data descriptor paper: Bouchard, K. E., and Chang, E. F. (2019). Human ECoG Speaking Consonant-Vowel Syllables. doi: 10.6084/m9.figshare.c.4617263.v4
+    - Original scientific paper that used this data: https://www.nature.com/articles/nature11911
+- Code: https://github.com/ericeasthope/as-in-ecog
+
 ## Education
 
 ### AJILE12 dataset (DANDI:000055)
