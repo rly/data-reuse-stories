@@ -103,3 +103,8 @@ SpikeForest
 - Data also on DANDI: https://dandiarchive.org/dandiset/000618?search=spikeforest&pos=1
 
 Processing and analysis tool benchmarking efforts
+
+OpenScope Databook
+https://alleninstitute.github.io/openscope_databook/intro.html
+
+A non-scientist friend of Ryan's used Neuropixels spiking data from [dandiset 000053](https://dandiarchive.org/dandiset/000053) to make music.
