@@ -108,3 +108,9 @@ OpenScope Databook
 https://alleninstitute.github.io/openscope_databook/intro.html
 
 A non-scientist friend of Ryan's used Neuropixels spiking data from [dandiset 000053](https://dandiarchive.org/dandiset/000053) to make music.
+
+Inferring brain-wide interactions using data-constrained recurrent neural network models
+Matthew G. Perich, Charlotte Arlt, Sofia Soares, Megan E. Young, Clayton P. Mosher, Juri Minxha, Eugene Carter, Ueli Rutishauser, Peter H. Rudebeck, Christopher D. Harvey, Kanaka Rajan
+https://www.biorxiv.org/content/10.1101/2020.12.18.423348v2
+Used multi-region datasets from mice during running, macaques during Pavlovian conditioning, and humans during memory retrieval.
+Data do not appear to be publicly available.
