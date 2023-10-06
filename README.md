@@ -120,3 +120,4 @@ Timo Flesch, Keno Juechems, Tsvetomira Dumbalska, Andrew Saxe, and Christopher S
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992799/
 Reused "a freely available dataset describing single-neuron activity in frontal eye fields (FEF) while macaques performed an equivalent context-dependent decision task on stimuli with varying color and motion coherence (Mante et al., 2013; Aoi et al., 2019)"
 With a follow-up note from both these data reuse authors and the original data authors: https://arxiv.org/abs/2306.16733
+Data is available at https://www.ini.uzh.ch/en/research/groups/mante/data.html
