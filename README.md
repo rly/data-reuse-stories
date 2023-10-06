@@ -114,3 +114,9 @@ Matthew G. Perich, Charlotte Arlt, Sofia Soares, Megan E. Young, Clayton P. Mosh
 https://www.biorxiv.org/content/10.1101/2020.12.18.423348v2
 Used multi-region datasets from mice during running, macaques during Pavlovian conditioning, and humans during memory retrieval.
 Data do not appear to be publicly available.
+
+Orthogonal representations for robust context-dependent task performance in brains and neural networks
+Timo Flesch, Keno Juechems, Tsvetomira Dumbalska, Andrew Saxe, and Christopher Summerfield
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992799/
+Reused "a freely available dataset describing single-neuron activity in frontal eye fields (FEF) while macaques performed an equivalent context-dependent decision task on stimuli with varying color and motion coherence (Mante et al., 2013; Aoi et al., 2019)"
+With a follow-up note from both these data reuse authors and the original data authors: https://arxiv.org/abs/2306.16733
