@@ -73,6 +73,26 @@ Easthope, E., Shamei, A., Liu, Y., Gick, B., & Fels, S. (2023). Cortical control
     - Original scientific paper that used this data: https://www.nature.com/articles/nature11911
 - Code: https://github.com/ericeasthope/as-in-ecog
 
+Mehdi Azabou, Vinam Arora, Venkataramana Ganesh, Ximeng Mao, Santosh Nachimuthu, Michael J. Mendelson, Blake Richards, Matthew G. Perich, Guillaume Lajoie, Eva L. Dyer. **A Unified, Scalable Framework for Neural Population Decoding.** 2023 Conference on Neural Information Processing Systems. Preprint: https://arxiv.org/abs/2310.16046 (proceedings not yet published)
+- Website: https://poyo-brain.github.io/
+- Tweeprint: https://twitter.com/mehdiazabou/status/1717271279575970256?t=H69z01uqQ-jPyo7BLcYUCA&s=19
+- Used data from Perich et al. (2018). A Neural Population Mechanism for Rapid Learning: https://pubmed.ncbi.nlm.nih.gov/30344047/
+    - Data: https://dandiarchive.org/dandiset/000688
+- Used data from Churchland et al. (2012). Neural population dynamics during reaching: https://www.nature.com/articles/nature11129
+    - Data: https://dandiarchive.org/dandiset/000070
+- Used data from Makin et al. (2018). Superior arm-movement decoding from cortex with a new, unsupervised-learning algorithm. doi:10.1088/1741-2552/aa9e95 
+    - Data: https://zenodo.org/records/583331
+- Used data from Flint et al. (2012). Accurate decoding of reaching movements from field potentials in the absence of spikes. doi: 10.1088/1741-2560/9/4/046006
+    - Data: https://portal.nersc.gov/project/crcns/download/dream/data_sets/Flint_2012
+- Used data from NLB Maze - a trimmed dataset from Churchland et al. (2010). Cortical Preparatory Activity: Representation of Movement or First Cog in a Dynamical Machine?: https://doi.org/10.1016/j.neuron.2010.09.015
+    - Data: https://dandiarchive.org/dandiset/000128
+    - Website: https://neurallatents.github.io/datasets.html#mcmaze
+    - I believe this dataset was also used in Churchland et al. (2012). Neural population dynamics during reaching: https://www.nature.com/articles/nature11129
+- Used data from NLB RTT - a trimmed dataset from Makin et al. (2018). Superior arm-movement decoding from cortex with a new, unsupervised-learning algorithm. doi:10.1088/1741-2552/aa9e95 
+    - Data: https://dandiarchive.org/dandiset/000129
+    - Website: https://neurallatents.github.io/datasets.html#mcrtt
+- Code: Not yet released
+
 ## Education
 
 ### AJILE12 dataset (DANDI:000055)
