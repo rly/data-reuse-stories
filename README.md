@@ -26,6 +26,11 @@ Lowet, E., Sheehan, D. J., Chialva, U., De Oliveira Pena, R., Mount, R. A., Xiao
     1. The percentage of spikes from CA1 neurons that were spike bursts
     1. The average spike rate of CA1 neurons (partial support)
     1. Differential coupling of spike bursts and single spikes to LFP rhythms: coupling of spike bursts to theta (5-12 Hz) was stronger than coupling of single spikes to theta, coupling of spike bursts to gamma (30-90 Hz) was weaker than coupling of single spikes to gamma
+  
+Chinmay Purandare, Mayank Mehta. **Mega-scale movie-fields in the mouse visuo-hippocampal network.** eLife. https://doi.org/10.7554/eLife.85069.3
+1. Used Allen Brain Observatory - Neuropixels Visual Coding dataset -- specifically data from 24 mice from the ‘Functional connectivity’ dataset
+    1. Data description: https://portal.brain-map.org/explore/circuits/visual-coding-neuropixels
+2. Analysis code: https://github.com/cspurandare/ELife_MovieTuning
 
 ### AJILE12 dataset (DANDI:000055)
 
