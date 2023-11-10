@@ -147,6 +147,13 @@ Reused "a freely available dataset describing single-neuron activity in frontal 
 With a follow-up note from both these data reuse authors and the original data authors: https://arxiv.org/abs/2306.16733
 Data is available at https://www.ini.uzh.ch/en/research/groups/mante/data.html
 
+Preserved neural dynamics across animals performing similar behaviour
+Mostafa Safaie, Joanna C. Chang, Junchol Park, Lee E. Miller, Joshua T. Dudman, Matthew G. Perich & Juan A. Gallego
+https://www.nature.com/articles/s41586-023-06714-0
+Used data of "recordings of neural populations from monkey and mouse motor cortex to demonstrate that neural dynamics in individuals from the same species are surprisingly preserved when they perform similar behaviour"
+"Most of the monkey datasets are publicly available on Dryad (https://datadryad.org/stash/dataset/doi:10.5061/dryad.xd2547dkt) and CRCNS (https://doi.org/10.6080/K0FT8J72). The remaining monkey datasets and the mouse datasets will be made available on reasonable request."
+NOTE: The authors seem to be heavily involved with the original data collection experiments, so this may be more of a "we reused our own data" instead of a "we reused others' data" story.
+
 
 ## Miscellaneous
 
