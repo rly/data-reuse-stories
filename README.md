@@ -155,6 +155,19 @@ Used data of "recordings of neural populations from monkey and mouse motor corte
 NOTE: The authors seem to be heavily involved with the original data collection experiments, so this may be more of a "we reused our own data" instead of a "we reused others' data" story.
 
 
+Investigating microglia-neuron crosstalk by characterizing microglial contamination in human and mouse patch-seq datasets
+Keon Arbabi, Yiyue Jiang, Derek Howard, Anukrati Nigam, Wataru Inoue, Guillermo Gonzalez-Burgos, Daniel Felsky, Shreejoy J Tripathy
+https://doi.org/10.1016/j.isci.2023.107329
+Category: New science
+Used DANDI:000209 and DANDI:000020
+
+Diversity amongst human cortical pyramidal neurons revealed via their sag currents and frequency preferences
+Homeira Moradi Chameh, Scott Rich, Lihua Wang, Fu-Der Chen, Liang Zhang, Peter L. Carlen, Shreejoy J. Tripathy & Taufik A. Valiante
+https://doi.org/10.1038/s41467-021-22741-9
+"We also made use of a publicly accessible dataset of 272 pyramidal cells sampled from L2, L3, and L5 from an additional cohort of 39 human surgical patients characterized by the Allen Institute for Brain Sciences (http://celltypes.brain-map.org/)"
+
+
+
 ## Miscellaneous
 
 Replications of experimental research can be published in [Rescience X](http://rescience.org/x). Replications of computational research can be published in [Rescience C](https://rescience.github.io/).
