@@ -105,7 +105,47 @@ Preprint: https://doi.org/10.1101/2023.03.02.530774
 - Used patch-seq ephys data from DANDI:000008
     - Data: https://dandiarchive.org/dandiset/000008
 - Used processed data from the above dataset at https://github.com/berenslab/hh_sbi
+
+**FIOLA: an accelerated pipeline for fluorescence imaging online analysis**
+Changjia Cai, Cynthia Dong, Johannes Friedrich, Marton Rozsa, Eftychios A. Pnevmatikakis & Andrea Giovannucci
+Nature Methods. https://doi.org/10.1038/s41592-023-01964-2
+- Tested a new method for fluorescence imaging online analysis on raw 2p data from DANDI:000054
+    - Data: https://dandiarchive.org/dandiset/000054
  
+**High-performance neural population dynamics modeling enabled by scalable computational infrastructure**
+Aashish N. Patel, Andrew R. Sedler, Jingya Huang, Chethan Pandarinath, and Vikash Gilja
+Journal of Open Source Software. https://doi.org/10.21105/joss.05023
+- Used the MC_Maze dataset from the Neural Latents Benchmark to train and evaluate two AutoLFADS models - DANDI:000128
+    - Data: https://dandiarchive.org/dandiset/000128/0.220113.0400
+
+**A large-scale neural network training framework for generalized estimation of single-trial population dynamics**
+Mohammad Reza Keshtkaran, Andrew R. Sedler, Raeed H. Chowdhury, Raghav Tandon, Diya Basrai, Sarah L. Nguyen, Hansem Sohn, Mehrdad Jazayeri, Lee E. Miller & Chethan Pandarinath
+Nature Methods. https://doi.org/10.1038/s41592-022-01675-0
+Used DANDI:000070 and NLB dandisets maze and random target
+    - https://dandiarchive.org/dandiset/000070
+    - MC_Maze: https://dandiarchive.org/dandiset/000128
+    - MC_RTT: https://dandiarchive.org/dandiset/000129    
+
+
+**Representation learning for neural population activity with Neural Data Transformers**
+Joel Ye, Chethan Pandarinath
+arXiv. https://doi.org/10.48550/arXiv.2108.01210
+Tested a new method for modeling neural population dynamics using data from monkey motor cortex during a reaching task - DANDI:000070 
+    - Data: https://dandiarchive.org/dandiset/000070
+
+**Simple decoding of behavior from a complicated neural manifold**
+Sean M. Perkins, John P. Cunningham,  Qi Wang, Mark M. Churchland
+bioRxiv. https://doi.org/10.1101/2023.04.05.535396
+Authors designed a decoder, MINT, of behavior given neural data.
+All empirical datasets (except MC_Cycle) were curated by the Neural Latents Benchmark team and made publicly available on DANDI (linked below). The MC_Cycle dataset is available upon request. Useful functions for loading the DANDI datasets are available at https://github.com/neurallatents/nlb_tools.
+    - Area2_Bump: https://dandiarchive.org/dandiset/000127
+    - DMFC_RSG: https://dandiarchive.org/dandiset/000130
+    - MC_Maze: https://dandiarchive.org/dandiset/000128
+    - MC_Maze-L: https://dandiarchive.org/dandiset/000138
+    - MC_Maze-M: https://dandiarchive.org/dandiset/000139
+    - MC_Maze-S: https://dandiarchive.org/dandiset/000140
+    - MC_RTT: https://dandiarchive.org/dandiset/000129    
+
 ## Education
 
 ### AJILE12 dataset (DANDI:000055)
@@ -185,3 +225,5 @@ Vasiliki Rahimzadeh et al. (2023). Neuron. DOI:https://doi.org/10.1016/j.neuron.
 https://www.cell.com/neuron/pdf/S0896-6273(23)00717-1.pdf
 - "The standardized datasets also have doubled as an educational resource for unique users. For example, children ages 8 to 15 years reviewed the data using NWB-based graphical user interfaces and helped translate the original publication of the dataset into a version for Frontiers for Young Minds. [https://doi.org/10.3389/frym.2023.968856] The interactive, web-based viewing, made possible by DANDI, enabled readers with limited programming experience to visualize the structured data and understand key findings from the parent study."
 - and other stories and comments about data sharing and reuse
+
+TODO: it looks like DANDI tracks citations "dCite:IsReferencedBy" on individual dandiset pages. How is this done?
