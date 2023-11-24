@@ -171,3 +171,9 @@ https://doi.org/10.1038/s41467-021-22741-9
 ## Miscellaneous
 
 Replications of experimental research can be published in [Rescience X](http://rescience.org/x). Replications of computational research can be published in [Rescience C](https://rescience.github.io/).
+
+Benefits of sharing neurophysiology data from the BRAIN Initiative Research Opportunities in Humans Consortium
+Vasiliki Rahimzadeh et al. (2023). Neuron. DOI:https://doi.org/10.1016/j.neuron.2023.09.029
+https://www.cell.com/neuron/pdf/S0896-6273(23)00717-1.pdf
+- "The standardized datasets also have doubled as an educational resource for unique users. For example, children ages 8 to 15 years reviewed the data using NWB-based graphical user interfaces and helped translate the original publication of the dataset into a version for Frontiers for Young Minds. [https://doi.org/10.3389/frym.2023.968856] The interactive, web-based viewing, made possible by DANDI, enabled readers with limited programming experience to visualize the structured data and understand key findings from the parent study."
+- and other stories and comments about data sharing and reuse
