@@ -158,7 +158,7 @@ Used whole-brain ECoG recordings from a macaque monkey under two different brain
 
 **Consistent cross-modal identification of cortical neurons with coupled autoencoders**
 Rohan Gala, Agata Budzillo, Fahimeh Baftizadeh, Jeremy Miller, Nathan Gouwens, Anton Arkhipov, Gabe Murphy, Bosiljka Tasic, Hongkui Zeng, Michael Hawrylycz & Uygar Sümbül
-https://doi.org/10.1038/s43588-021-00030-1
+Nature Computational Science. https://doi.org/10.1038/s43588-021-00030-1
 The Patch-seq transcriptomic data are available at http://data.nemoarchive.org/other/grant/AIBS_patchseq/transcriptome/scell/SMARTseq/processed/analysis/20200611/, electrophysiological data are available at https://dandiarchive.org/dandiset/000020. For the Scala et al. 2019 dataset, the sequencing data are available under accession no. GSE134378, whereas the electrophysiological data are available at https://doi.org/10.5281/zenodo.3336165. The Scala et al. 2020 dataset was obtained from the public repository related to this work at https://github.com/berenslab/mini-atlas
 
 
