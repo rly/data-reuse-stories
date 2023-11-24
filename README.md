@@ -98,6 +98,14 @@ Mehdi Azabou, Vinam Arora, Venkataramana Ganesh, Ximeng Mao, Santosh Nachimuthu,
     - Website: https://neurallatents.github.io/datasets.html#mcrtt
 - Code: Not yet released
 
+
+**Combined statistical-mechanistic modeling links ion channel genes to physiology of cortical neuron types**
+Yves Bernaerts, Michael Deistler, Pedro J. Gonçalves, Jonas Beck, Marcel Stimberg, Federico Scala, Andreas S. Tolias, Jakob Macke, Dmitry Kobak, Philipp Berens
+Preprint: https://doi.org/10.1101/2023.03.02.530774
+- Used patch-seq ephys data from DANDI:000008
+    - Data: https://dandiarchive.org/dandiset/000008
+- Used processed data from the above dataset at https://github.com/berenslab/hh_sbi
+ 
 ## Education
 
 ### AJILE12 dataset (DANDI:000055)
