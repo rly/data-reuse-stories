@@ -243,3 +243,5 @@ https://www.cell.com/neuron/pdf/S0896-6273(23)00717-1.pdf
 - and other stories and comments about data sharing and reuse
 
 TODO: it looks like DANDI tracks citations "dCite:IsReferencedBy" on individual dandiset pages. How is this done?
+
+Every research result paper from the Allen Institute is basically reuse of their publicly shared data, often by different groups. Does that count?
