@@ -231,6 +231,8 @@ https://doi.org/10.1038/s41467-021-22741-9
 "We also made use of a publicly accessible dataset of 272 pyramidal cells sampled from L2, L3, and L5 from an additional cohort of 39 human surgical patients characterized by the Allen Institute for Brain Sciences (http://celltypes.brain-map.org/)"
 
 
+30+ instances of documented reuses of this dataset under section "Publications making use of this dataset."
+https://zenodo.org/records/3854034 including some mentioned above
 
 ## Miscellaneous
 
