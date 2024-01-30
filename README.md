@@ -161,6 +161,15 @@ Rohan Gala, Agata Budzillo, Fahimeh Baftizadeh, Jeremy Miller, Nathan Gouwens, A
 Nature Computational Science. https://doi.org/10.1038/s43588-021-00030-1
 The Patch-seq transcriptomic data are available at http://data.nemoarchive.org/other/grant/AIBS_patchseq/transcriptome/scell/SMARTseq/processed/analysis/20200611/, electrophysiological data are available at https://dandiarchive.org/dandiset/000020. For the Scala et al. 2019 dataset, the sequencing data are available under accession no. GSE134378, whereas the electrophysiological data are available at https://doi.org/10.5281/zenodo.3336165. The Scala et al. 2020 dataset was obtained from the public repository related to this work at https://github.com/berenslab/mini-atlas
 
+**A ubiquitous spectrolaminar motif of local field potential power across the primate cortex**
+Diego Mendoza-Halliday, Alex James Major, Noah Lee, Maxwell J. Lichtenfeld, Brock Carlson, Blake Mitchell, Patrick D. Meng, Yihan (Sophy) Xiong, Jacob A. Westerberg, Xiaoxuan Jia, Kevin D. Johnston, Janahan Selvanayagam, Stefan Everling, Alexander Maier, Robert Desimone, Earl K. Miller & André M. Bastos 
+https://www.nature.com/articles/s41593-023-01554-7
+Used Allen Brain Observatory Neuropixels data, described in Siegle et al. (2021). 
+    1. Data on DANDI: https://dandiarchive.org/dandiset/000021
+Used human Neuropixels data, described in Paul et al. (2022).
+    - Data on DANDI: https://dandiarchive.org/dandiset/000397?search=paulk&pos=1
+    - Data on Dryad: https://datadryad.org/stash/dataset/doi:10.5061/dryad.d2547d840
+
 
 ## Education
 
