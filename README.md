@@ -243,6 +243,24 @@ https://doi.org/10.1038/s41467-021-22741-9
 30+ instances of documented reuses of this dataset under section "Publications making use of this dataset."
 https://zenodo.org/records/3854034 including some mentioned above
 
+
+Peter C. Petersen, Joshua H. Siegle, Nicholas A. Steinmetz, Sara Mahallati, György Buzsáki.
+CellExplorer: A framework for visualizing and characterizing single neurons.
+https://doi.org/10.1016/j.neuron.2021.09.002
+- "Data from hippocampus (Petersen and Buzsáki, 2020) (A). Data from visual cortex (Senzai et al., 2019) (B). Hippocampal and visual neurons selected from the UCL dataset (Steinmetz et al., 2019) (C). Visual cortex cells from the Allen Institute (Siegle et al., 2021) (D)."
+- Note: "Communal contribution of ground-truth data to CellExplorer is possible through the public GitHub repository (Figure S8I; visit https://cellexplorer.org for tutorials and further details)"
+
+PhysMAP - interpretable in vivo neuronal cell type identification using multi-modal analysis of electrophysiological data.
+Eric Kenji Lee, Asım Emre Gül, Greggory Heller, Anna Lakunina, Santiago Jaramillo, Pawel F. Przytycki, Chandramouli Chandrasekaran.
+https://doi.org/10.1101/2024.02.28.582461
+- Used "in vivo juxtacellular recordings from the mouse somatosensory (whisker barrel) cortex (Yu et al., 2019)."
+  - Paper: https://doi.org/10.1016/j.neuron.2019.07.027
+  - Data available in NWB 2.0 format on Figshare: https://janelia.figshare.com/articles/dataset/Recruitment_of_GABAergic_Interneurons_in_the_Barrel_Cortex_during_Active_Tactile_Behavior/8869115
+- Used "extracellular electrophysiological dataset collected from mouse primary auditory cortex (A1, Lakunina et al., 2020) with optotagged cells."
+  - Paper: DOI: 10.1523/JNEUROSCI.1735-19.2020
+  - Data not available
+- Used "extracellular recording datasets originating from separate labs each containing cells from both visual cortex and hippocampus (Siegle et al., 2021; Petersen et al., 2020) released as part of CellExplorer (Petersen et al., 2021)
+
 ## Miscellaneous
 
 Replications of experimental research can be published in [Rescience X](http://rescience.org/x). Replications of computational research can be published in [Rescience C](https://rescience.github.io/).
