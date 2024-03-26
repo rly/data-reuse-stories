@@ -260,6 +260,11 @@ https://doi.org/10.1101/2024.02.28.582461
   - Paper: DOI: 10.1523/JNEUROSCI.1735-19.2020
   - Data not available
 - Used "extracellular recording datasets originating from separate labs each containing cells from both visual cortex and hippocampus (Siegle et al., 2021; Petersen et al., 2020) released as part of CellExplorer (Petersen et al., 2021)
+- 
+
+A doubly stochastic renewal framework for partitioning spiking variability
+https://www.biorxiv.org/content/10.1101/2024.02.21.581457v1
+need to check whether data is public
 
 ## Miscellaneous
 
