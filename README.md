@@ -170,6 +170,10 @@ Used human Neuropixels data, described in Paul et al. (2022).
     - Data on DANDI: https://dandiarchive.org/dandiset/000397?search=paulk&pos=1
     - Data on Dryad: https://datadryad.org/stash/dataset/doi:10.5061/dryad.d2547d840
 
+**Spike sorting with Kilosort4**
+Pachitariu, M., Sridhar, S., Pennington, J. et al. Spike sorting with Kilosort4. Nat Methods (2024). https://doi.org/10.1038/s41592-024-02232-7
+
+"We used datasets shared by N. Steinmetz and the IBL16,22 (available at https://rdr.ucl.ac.uk/articles/dataset/Recording_with_a_Neuropixels_probe/25232962/1 and https://ibl.flatironinstitute.org/public/). We also used datasets from the DANDI archive at https://dandiarchive.org/dandiset/000410/draft (ref. 26) and https://dandiarchive.org/dandiset/000231/0.220904.1554 (ref. 27). The simulated datasets are shared at https://doi.org/10.25378/janelia.25298815.v1."
 
 ## Education
 
