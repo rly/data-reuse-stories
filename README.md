@@ -270,6 +270,18 @@ A doubly stochastic renewal framework for partitioning spiking variability
 https://www.biorxiv.org/content/10.1101/2024.02.21.581457v1
 need to check whether data is public
 
+Unifying community-wide whole-brain imaging datasets enables robust automated neuron identification and reveals determinants of neuron positioning in C. elegans
+Sprague, D. Y., Rusch, K., Dunn, R. L., Borchardt, J., Bubnis, G., Chiu, G., ... & Kato, S. (2024). Unifying community-wide whole-brain imaging datasets enables robust automated neuron identification and reveals determinants of neuron positioning in C. elegans. bioRxiv, 2024-04.
+https://www.biorxiv.org/content/10.1101/2024.04.28.591397v1
+Datasets used:
+- Original neuroPAL: https://doi.org/10.48324/dandi.000715/0.240424.1847
+- EY: TBD
+- HL: https://doi.org/10.48324/dandi.000714/0.240402.2115
+- KK: https://doi.org/10.48324/dandi.000692/0.240402.2118
+- SK1: TBD
+- SK2: https://doi.org/10.48324/dandi.000472/0.240402.2117
+- SF: TBD
+
 ## Miscellaneous
 
 Replications of experimental research can be published in [Rescience X](http://rescience.org/x). Replications of computational research can be published in [Rescience C](https://rescience.github.io/).
