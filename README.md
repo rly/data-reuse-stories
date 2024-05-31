@@ -282,6 +282,9 @@ Datasets used:
 - SK2: https://doi.org/10.48324/dandi.000472/0.240402.2117
 - SF: TBD
 
+A machine learning toolbox for the analysis of sharp-wave ripples reveals common waveform features across species.
+Navas-Olive, A., Rubio, A., Abbaspoor, S., Hoffman, K. L., & de la Prida, L. M. (2024). A machine learning toolbox for the analysis of sharp-wave ripples reveals common waveform features across species. Communications Biology, 7(1), 1-15.
+
 ## Miscellaneous
 
 Replications of experimental research can be published in [Rescience X](http://rescience.org/x). Replications of computational research can be published in [Rescience C](https://rescience.github.io/).
